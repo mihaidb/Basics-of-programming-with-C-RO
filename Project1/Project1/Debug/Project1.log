@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\csie\source\repos\project1\project1\source.cpp(182): warning C4101: 'n': unreferenced local variable
+c:\users\csie\source\repos\project1\project1\source.cpp(287): warning C4101: 'temp': unreferenced local variable
+c:\users\csie\source\repos\project1\project1\source.cpp(610): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project1.vcxproj -> C:\Users\csie\source\repos\Project1\Debug\Project1.exe
